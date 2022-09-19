@@ -2,7 +2,6 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/Latest-V--1--1.0-orange" />
   <a href="https://www.linkedin.com/in/sunil-kumar-971619148/" target="_blank">
-    <img alt="Linkdin: MemeCoin/DogeCoin" src="https://www.freepik.com/premium-vector/shiba-inu-shib-cryptocurrency-token-shiba-inu-coin-defi-project-with-pcb-tracks-technology_19789896.htm#query=shiba%20inu%20token&position=3&from_view=keyword" />
   </a>
 </p>
 
